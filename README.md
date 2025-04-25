@@ -50,9 +50,9 @@ Desarrollar un sistema capaz de predecir, con alta precisión, la demanda de ate
 
 Los datos fueron provistos por una ARL (Administradora de Riesgos Laborales) e incluyen:
 
-- Registro de atenciones médicas mensuales
-- Variables demográficas y económicas por municipio
-- Clasificación por tipo de atención (accidentes vs. enfermedades)
+- Registro de atenciones médicas mensuales.
+- Variables dadas por municipio
+- Clasificación por tipo de atención.
 
 > ⚠️ Nota: Por privacidad, los dataset se manejan de maner privada.
 
