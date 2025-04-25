@@ -35,12 +35,12 @@ Desarrollar un sistema capaz de predecir, con alta precisión, la demanda de ate
 
 ## 📈 Resultados y Visualizaciones
 
-- 📉 Predicción vs. Valores reales por municipio
-- 📅 Análisis mensual y anual de la demanda
+- 📉 Predicción por municipios principales
+- 📅 Análisis de la demanda
 - 🧩 Descomposición de series (tendencia + estacionalidad)
-- 📍 Identificación de municipios con mayor crecimiento de demanda
+- 📍 Identificación de municipios con mayor crecimiento de demanda.
 
-¡Incluye notebooks interactivos y gráficos generados automáticamente!
+¡Incluye notebooks y gráficos!
 
 ---
 
@@ -52,7 +52,7 @@ Los datos fueron provistos por una ARL (Administradora de Riesgos Laborales) e i
 - Variables demográficas y económicas por municipio
 - Clasificación por tipo de atención (accidentes vs. enfermedades)
 
-> ⚠️ Nota: Por privacidad, los datos sensibles han sido anonimizados.
+> ⚠️ Nota: Por privacidad, los dataset se manejan de maner privada.
 
 ---
 
