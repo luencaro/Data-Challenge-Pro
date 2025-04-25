@@ -25,11 +25,13 @@ Desarrollar un sistema capaz de predecir, con alta precisión, la demanda de ate
 
 ## 📊 Métricas de Desempeño
 
-| Modelo          | RMSE     | MAE      | SMAPE    | MASE    |
-|------------------|----------|----------|----------|----------|
-| **N-BEATS**      | 36.23    | 25.36    | 57.83%   | 0.52     |
-| LSTM             | 86.03    | 71.29    | 114.01%  | 1.29     |
-| ARIMA + XGBoost  | 47.54    | 39.01    | 74.16%   | 0.77     |
+| Modelo          | RMSE     | MAE     |
+|------------------|----------|---------|
+| **N-BEATS**      | 27.74    | 19.36   |
+| LSTM             | 60.79    | 49.95   |
+| ARIMA + XGBoost  | 36.78    | 29.98   |
+
+> Nota: RMSE y MAE reflejan el error absoluto en la escala de la variable objetivo, que representa la cantidad diaria de servicios. Estos valores deben interpretarse en relación con la magnitud promedio de la demanda en cada municipio.
 
 ---
 
